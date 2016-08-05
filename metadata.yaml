@@ -1,0 +1,48 @@
+_repo: Redburn.-His-First-Voyage--13-Being-the-Sailor-Boy-Confessions-and-Reminiscences-of-the-Son-Of__8118
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melville, Herman
+    alias: Melville, Hermann
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '9'
+    url: http://www.gutenberg.org/2009/agents/9
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Melville
+description: "Redburn: His First Voyage is the fourth book by the American writer\
+  \ Herman Melville, first published in London in 1849. The book is semi-autobiographical\
+  \ and recounts the adventures of a refined youth among coarse and brutal sailors\
+  \ and the seedier areas of Liverpool. Melville wrote Redburn in less than ten weeks.\
+  \ While one scholar describes it as \"arguably his funniest work,\" scholar F.O.\
+  \ Matthiessen calls it \"the most moving of its author's books before Moby-Dick\"\
+  .\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8118'
+  wikidata: Q7305519
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Liverpool (England) -- Fiction'
+- !lcsh 'Americans -- England -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Seafaring life -- Fiction'
+- !lcsh 'Merchant mariners -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Autobiographical fiction'
+- GITenberg
+title: "Redburn. His First Voyage\r\nBeing the Sailor Boy Confessions and Reminiscences\
+  \ of the Son-Of-A-Gentleman in the Merchant Navy"
+url: http://www.gutenberg.org/ebooks/8118
+wikipedia:
+- https://cs.wikipedia.org/wiki/Prvn%C3%AD_plavba
+- https://fa.wikipedia.org/wiki/%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86_%D8%B3%D9%81%D8%B1
+- https://fr.wikipedia.org/wiki/Redburn
+- https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D8%AF%D8%A8%D9%88%D8%B1%D9%86
+- https://en.wikipedia.org/wiki/Redburn

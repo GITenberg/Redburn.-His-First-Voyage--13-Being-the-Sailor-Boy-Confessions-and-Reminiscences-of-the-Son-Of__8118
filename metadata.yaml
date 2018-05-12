@@ -1,5 +1,8 @@
 _repo: Redburn.-His-First-Voyage--13-Being-the-Sailor-Boy-Confessions-and-Reminiscences-of-the-Son-Of__8118
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Melville, Herman
@@ -16,6 +19,8 @@ description: "Redburn: His First Voyage is the fourth book by the American write
   \ While one scholar describes it as \"arguably his funniest work,\" scholar F.O.\
   \ Matthiessen calls it \"the most moving of its author's books before Moby-Dick\"\
   .\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8118#Redburn.-His-First-Voyage--13-Being-the-Sailor-Boy-Confessions-and-Reminiscences-of-the-Son-Of_
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
